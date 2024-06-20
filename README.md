@@ -1,1 +1,2 @@
-https://github.com/aakashboda/StartNewProject/blob/main/Help.txt
+
+**Start CodeFirst Project .Net MVC/CORE:** StartNewProject/blob/main/Help.txt
